@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a0c94789c0cecc46845008deeb97f5b, type: 3}
+  m_Name: Tech Train Module
+  m_EditorClassIdentifier: 
+  Time: 2
+  Thumbnail: {fileID: 2800000, guid: f9004993d359bb04981cd757b29fc186, type: 3}
+  Tech: {fileID: 11400000, guid: 0205abaa51d21b8499531533e196f443, type: 2}

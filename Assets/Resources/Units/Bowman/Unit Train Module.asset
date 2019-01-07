@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe35991a2147e0b4783f740b7ee31e41, type: 3}
+  m_Name: Unit Train Module
+  m_EditorClassIdentifier: 
+  Time: 4
+  Thumbnail: {fileID: 2800000, guid: a42c57cf18eba8843b5d9352557b36e7, type: 3}
+  Unit: {fileID: 11400000, guid: df0af5046361b2842b325fda4dae0325, type: 2}
