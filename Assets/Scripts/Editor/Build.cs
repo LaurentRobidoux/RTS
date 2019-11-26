@@ -10,6 +10,7 @@ public class Build
     {
         //a comment
         string[] scenes = { "Assets/Scenes/SampleScene.unity" };
-        BuildPipeline.BuildPlayer(scenes, "Build/app.exe", BuildTarget.StandaloneWindows64, BuildOptions.Development);
+        //   BuildPipeline.BuildPlayer(scenes, "Build/app.exe", BuildTarget.StandaloneWindows64, BuildOptions.Development);
+        BuildPipeline.BuildPlayer(scenes, "Builds/app.apk", BuildTarget.Android, BuildOptions.Development);
     }
 }
